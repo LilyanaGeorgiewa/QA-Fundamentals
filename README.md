@@ -1,2 +1,3 @@
-# QA-Fundamentals
-Courses from my education in QA Fundamentals @SoftUni
+# Exercise with GitBash
+##subtitle
+New repository for practicise with GitBash
